@@ -1,0 +1,14 @@
+[
+  {
+    "card_number": 123456789012,
+    "account_name": "Gani Lapira",
+    "card_status": "Active",
+    "balance": 501.0
+  },
+  {
+    "card_number": 123456789011,
+    "account_name": "Juan Dela Cruz",
+    "card_status": "Active",
+    "balance": 0.0
+  }
+]
